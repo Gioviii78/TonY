@@ -1,4 +1,4 @@
-# TonY
+#TONy
 [![CircleCI](https://circleci.com/gh/tony-framework/TonY/tree/master.svg?style=svg)](https://circleci.com/gh/tony-framework/TonY/tree/master)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5080/badge)](https://bestpractices.coreinfrastructure.org/projects/5080)
 
